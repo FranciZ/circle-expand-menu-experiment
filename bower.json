@@ -1,0 +1,22 @@
+{
+  "name": "prototypes",
+  "authors": [
+    "FranciZ <franci@proxima.si>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "jquery.transit": "^0.9.12"
+  }
+}
